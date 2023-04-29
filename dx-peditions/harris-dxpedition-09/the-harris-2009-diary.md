@@ -5,6 +5,7 @@ date: '2010-03-02T23:35:04+00:00'
 author: m1xzg
 layout: page
 guid: 'http://dx.camb-hams.com/dx-peditions/harris-dxpedition-09-diary/'
+parent: "Harris 2009"
 ---
 
 **Wednesday – April 22nd 2009: 2305pm (By GM4HUN)**

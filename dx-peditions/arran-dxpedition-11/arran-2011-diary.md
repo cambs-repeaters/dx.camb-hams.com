@@ -5,6 +5,7 @@ date: '2011-02-10T18:55:55+00:00'
 author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://dx.camb-hams.com/dx-peditions/arran-dx%e2%80%99pedition-%e2%80%9811/arran-2011-diary/'
+parent: "Arran 2011"
 ---
 
 [![](http://dx.camb-hams.com/wp-content/uploads/2011/04/icom_logo.png "icom_logo")](http://bit.ly/cambhams-icom) [![](http://dx.camb-hams.com/wp-content/uploads/2011/04/KenwoodUK_thumb.png "KenwoodUK_thumb.png")](http://bit.ly/cambhams-kenwood) [![](http://dx.camb-hams.com/wp-content/uploads/2011/04/LinearAmpUK_thumb.png "LinearAmpUK_thumb.png")](http://bit.ly/cambhams-linamp)

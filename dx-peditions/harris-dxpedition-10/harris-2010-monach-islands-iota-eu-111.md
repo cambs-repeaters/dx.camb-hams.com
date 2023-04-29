@@ -5,6 +5,7 @@ date: '2010-05-05T06:24:19+00:00'
 author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://dx.camb-hams.com/dx-peditions/harris-dxpedition-10/harris-2010-monach-islands/'
+parent: "Harris 2010"
 ---
 
 The Monach mini DX’Pedition is over. We managed 1664 contacts in total, thanks to all who worked us.

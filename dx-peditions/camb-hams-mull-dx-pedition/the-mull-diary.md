@@ -5,6 +5,7 @@ date: '2009-04-12T23:48:07+00:00'
 author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://www.camb-hams.com/coming-events/camb-hams-mull-dx-pedition/the-mull-diary'
+parent: "Mull 2008"
 ---
 
 <span style="font-size: x-small;">**Tuesday 10th June 2008**</span>

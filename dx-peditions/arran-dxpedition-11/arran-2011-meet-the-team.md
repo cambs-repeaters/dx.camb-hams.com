@@ -5,6 +5,7 @@ date: '2011-04-27T16:02:12+00:00'
 author: M0VFC
 layout: page
 guid: 'http://dx.camb-hams.com/?page_id=1500'
+parent: "Arran 2011"
 ---
 
 Meet the operators behind the mics, keys, and keyboards… and see if you can spot the common theme…
