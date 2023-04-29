@@ -1,6 +1,6 @@
-url: 'http://dx.camb-hams.com'
+url: 'https://dx.camb-hams.com'
 name: 'Camb-Hams DX Blog'
 description: ''
 theme: just-the-docs
-logo: "cambhamslogo.png"
+logo: "images/cambhamslogo.png"
 search_enabled: false
