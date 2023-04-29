@@ -1,6 +1,6 @@
 ---
 id: 2048
-title: 'Mull DX&#8217;Pedition &#8217;12'
+title: 'Mull 2012'
 date: '2011-12-05T11:06:30+00:00'
 author: 'Gavin, M1BXF'
 layout: page

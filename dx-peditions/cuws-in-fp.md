@@ -5,8 +5,6 @@ date: '2011-09-20T17:50:33+00:00'
 author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://dx.camb-hams.com/?page_id=2000'
-video_type:
-    - '#NONE#'
 ---
 
 Between September 23rd 2011 and October September 30th 2011 five hams from Cambridge, England will be active on Miquelon (prefix FP) part of [The Territorial Collectivity of Saint-Pierre and Miquelon.](http://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon)

@@ -1,6 +1,6 @@
 ---
 id: 38
-title: 'Harris DX&rsquo;Pedition &lsquo;10'
+title: 'Harris 2010'
 date: '2010-03-02T23:26:20+00:00'
 author: 'Gavin, M1BXF'
 layout: page

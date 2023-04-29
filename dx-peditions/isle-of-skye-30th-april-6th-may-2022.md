@@ -1,6 +1,6 @@
 ---
 id: 3478
-title: 'Isle of Skye, 30th April &#8211; 6th May 2022'
+title: 'Skye 2022'
 date: '2022-04-30T07:33:34+00:00'
 author: M0VFC
 layout: page

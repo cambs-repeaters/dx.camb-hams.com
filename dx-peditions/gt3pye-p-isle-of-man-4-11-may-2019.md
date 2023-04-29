@@ -1,6 +1,6 @@
 ---
 id: 3433
-title: 'GT3PYE/P: Isle of Man, 4-11 May 2019'
+title: 'Isle of Man 2019'
 date: '2019-05-02T12:41:32+00:00'
 author: M0VFC
 layout: page

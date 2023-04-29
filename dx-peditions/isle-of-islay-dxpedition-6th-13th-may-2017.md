@@ -1,6 +1,6 @@
 ---
 id: 3351
-title: 'Isle of Islay &ndash; 6-13 May 2017'
+title: 'Islay 2017'
 date: '2017-04-08T02:49:02+00:00'
 author: 'Gavin, M1BXF'
 layout: page

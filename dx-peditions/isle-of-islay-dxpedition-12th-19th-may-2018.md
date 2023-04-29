@@ -1,6 +1,6 @@
 ---
 id: 3413
-title: 'Isle of Islay &ndash; 12-19 May 2018'
+title: 'Islay 2018'
 date: '2018-05-12T17:28:45+00:00'
 author: M0VFC
 layout: page

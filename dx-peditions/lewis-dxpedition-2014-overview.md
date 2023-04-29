@@ -1,6 +1,6 @@
 ---
 id: 2931
-title: 'Isle of Lewis 2014'
+title: 'Lewis 2014'
 date: '2014-03-13T15:40:06+00:00'
 author: 'Peter, 2E0SQL'
 layout: page

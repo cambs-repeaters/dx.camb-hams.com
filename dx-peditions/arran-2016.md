@@ -1,6 +1,6 @@
 ---
 id: 3331
-title: 'Isle of Arran &#8211; 22-29 May 2016'
+title: 'Arran 2016'
 date: '2016-05-05T12:27:15+00:00'
 author: 'Peter, 2E0SQL'
 layout: page

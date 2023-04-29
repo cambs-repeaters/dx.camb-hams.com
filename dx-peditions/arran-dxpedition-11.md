@@ -1,6 +1,6 @@
 ---
 id: 1156
-title: 'Arran DX&rsquo;Pedition &lsquo;11'
+title: 'Arran 2011'
 date: '2011-04-23T00:00:06+00:00'
 author: 'Gavin, M1BXF'
 layout: page

@@ -1,10 +1,11 @@
 ---
 id: 37
-title: 'Harris DX&#8217;Pedition &#8217;09'
+title: 'Harris 2009'
 date: '2010-03-02T23:23:23+00:00'
 author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://dx.camb-hams.com/dx-peditions/2009-dxpedition/'
+has_children: true
 ---
 
 <span style="text-decoration: underline;"><span style="font-size: small;">**From The Island**</span></span>
