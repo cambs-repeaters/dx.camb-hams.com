@@ -7,5 +7,5 @@ layout: page
 guid: 'http://dx.camb-hams.com/'
 nav_order: 200
 ---
-
-<iframe frameborder="0" height="3500" loading="lazy" src="https://dx.camb-hams.com/log/skye2022/" width="98%"></iframe>
+<h1>Online Log</h1>
+<p>Coming soon - once we're on air!</p>

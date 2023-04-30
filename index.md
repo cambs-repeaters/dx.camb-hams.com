@@ -8,25 +8,29 @@ guid: 'http://dx.camb-hams.com/'
 nav_order: 100
 ---
 
-Welcome to the Camb-Hams DX’Pedition site. Here you’ll read all about our adventures, trips and activities operating Amateur Radio from locations such as Harris, Arran, Mull and other Scottish Isles. We’ll also post pictures and videos, and during our trips we will have our logbook updating in real-time.
+Welcome to the Camb-Hams DXpedition site. Here you’ll read all about our adventures, trips and activities operating Amateur Radio from locations such as Harris, Arran, Mull and other Scottish Isles. We’ll also post pictures and videos, and during our trips we will have our logbook updating in real-time.
 
-<span style="color: #000000;"><span style="text-decoration: underline;"><span style="font-size: small;"><span style="font-size: large;">Lewis 2014</span></span></span></span>
+## Islay 2023
+
+We're back on [Islay]({% dx-peditions/islay-2023.md %}) for 2023. We'll be on air Sunday 30th April to Saturday 6th May, on HF and the narrowband QO-100 transponder.
+
+## Lewis 2014
 
 - Check out what we are up to on the [Lewis 2014 Page](http://dx.camb-hams.com/).
 
-<span style="color: #000000;"><span style="text-decoration: underline;"><span style="font-size: small;"><span style="font-size: large;">Mull 2013</span></span></span></span>
+## Mull 2013
 
 - Check out what we are up to on the [Mull 2013 Page](http://dx.camb-hams.com/dx-peditions/mull-dxpedition-13/).
 
-<span style="color: #000000;"><span style="text-decoration: underline;"><span style="font-size: small;"><span style="font-size: large;">Mull 2012</span></span></span></span>
+## Mull 2012
 
 - Check out what we are up to on the [Mull 2012 Page](http://dx.camb-hams.com/dx-peditions/mull-dxpedition-12/).
 
-<span style="color: #000000;"><span style="text-decoration: underline;"><span style="font-size: small;"><span style="font-size: large;">Miquelon September 2011 (CUWS)</span></span></span></span>
+## Miquelon September 2011 (CUWS)
 
 - For details of the [CUWS](http://www.g6uw.org/) IOTA and DXCC DX’Pedition to Miquelon [look here](http://dx.camb-hams.com/dx-peditions/cuws-in-fp/).
 
-<span style="color: #000000;"><span style="text-decoration: underline;"><span style="font-size: small;"><span style="font-size: large;">Arran 2011</span></span></span></span>
+## Arran 2011
 
 - Check out what we are up to on the **[Arran 2011 Page](http://dx.camb-hams.com/)**.
 
