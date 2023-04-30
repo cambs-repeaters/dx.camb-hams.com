@@ -28,7 +28,7 @@ A second visit to Claggan Farmhouse on the [Isle of Islay]({% link dx-peditions/
 
 ## Islay 2017
 
-Our first visit to the [Isle of Islay]({% link dx-peditions/isle-of-islay-6th-13th-may-2017.md %}). As well as our usual GS3PYE/P operation, we activated all the SOTA summits on Islay, and all WAB squares in a week of excellent weather.
+Our first visit to the [Isle of Islay]({% link dx-peditions/isle-of-islay-dxpedition-6th-13th-may-2017.md %}). As well as our usual GS3PYE/P operation, we activated all the SOTA summits on Islay, and all WAB squares in a week of excellent weather.
 
 ## Arran 2016
 
