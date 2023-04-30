@@ -1,12 +1,10 @@
 ---
 id: 19
-title: DX-Peditions
+title: Camb-Hams DXpeditions
 date: '2010-03-02T22:44:58+00:00'
 author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://dx.camb-hams.com/'
-video_type:
-    - '#NONE#'
 ---
 
 Welcome to the Camb-Hams DX’Pedition site. Here you’ll read all about our adventures, trips and activities operating Amateur Radio from locations such as Harris, Arran, Mull and other Scottish Isles. We’ll also post pictures and videos, and during our trips we will have our logbook updating in real-time.
