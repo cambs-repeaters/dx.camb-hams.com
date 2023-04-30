@@ -48,7 +48,7 @@ Check out what we are up to on the [Mull 2013 Page]({% link dx-peditions/mull-dx
 
 ## Mull 2012
 
-Check out what we are up to on the [Mull 2012 Page]({% link dx-peditions/mull-dxpedition-12 %}).
+Check out what we are up to on the [Mull 2012 Page]({% link dx-peditions/mull-dxpedition-12.md %}).
 
 ## Miquelon September 2011 (CUWS)
 
