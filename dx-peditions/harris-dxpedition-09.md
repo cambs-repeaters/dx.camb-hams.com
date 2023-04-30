@@ -6,6 +6,7 @@ author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://dx.camb-hams.com/dx-peditions/2009-dxpedition/'
 has_children: true
+nav_order: 1011
 ---
 
 <span style="text-decoration: underline;"><span style="font-size: small;">**From The Island**</span></span>

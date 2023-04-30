@@ -5,8 +5,7 @@ date: '2011-12-05T11:06:30+00:00'
 author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://dx.camb-hams.com/?page_id=2048'
-video_type:
-    - '#NONE#'
+nav_order: 1008
 ---
 
 Four years after the first DX’pedition, we’re back to Mull!

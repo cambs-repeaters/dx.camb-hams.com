@@ -5,8 +5,7 @@ date: '2016-05-05T12:27:15+00:00'
 author: 'Peter, 2E0SQL'
 layout: page
 guid: 'http://dx.camb-hams.com/?page_id=3331'
-video_type:
-    - '#NONE#'
+nav_order: 1004
 ---
 
 Continuing the Camb-Hams traditional Scottish Island activations, we’ve decided to return to the Isle of Arran (**IOTA EU-123**) operating from a cottage on the west of the island near Balliekine IO75HO during the **22nd of May till 29th of May 2016**.

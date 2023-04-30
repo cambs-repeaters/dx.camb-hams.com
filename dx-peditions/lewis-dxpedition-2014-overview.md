@@ -5,9 +5,9 @@ date: '2014-03-13T15:40:06+00:00'
 author: 'Peter, 2E0SQL'
 layout: page
 guid: 'http://dx.camb-hams.com/?page_id=2931'
-video_type:
-    - '#NONE#'
 image: 'http://dx.camb-hams.com/wp-content/uploads/2014/01/image_thumb.png'
+nav_order: 1006
+has_children: true
 ---
 
 <div style="font-size: 14px; color: #00529b; background-color: #bde5f8; border: 1px solid; margin: 10px 0px; padding: 15px 10px 15px 10px;">**Keep up to date by reading the [DX’Pedition blog](http://dx.camb-hams.com/dx-peditions/lewis-dxpedition-2014-overview/blog/).**</div>In 2014 the Camb-Hams traditional Scottish Island activation, beginning with Mull in 2008, Harris in 2009 and 2010, Arran in 2011 and Mull in 2012 and 2013 again, we’ve decided to head to the top of Lewis in the Scottish Outer Hebrides (**[IOTA EU-010](http://www.rsgbiota.org/info/groupinfo.php?refno=EU-010)**). The location is [The Decca](http://www.thedecca.co.uk/), [IO68UL](http://no.nonsense.ee/qth/map.html?qth=IO68UL99OD).

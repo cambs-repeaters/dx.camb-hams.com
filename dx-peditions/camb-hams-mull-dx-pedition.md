@@ -5,6 +5,7 @@ date: '2008-02-19T15:36:14+00:00'
 author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://www.camb-hams.com/wordpress/?page_id=114'
+nav_order: 1012
 ---
 
 <span style="font-size: x-small;">Info about the CAMB-HAMS DX-pedition to the </span>[<span style="font-size: x-small;">Isle of Mull</span>](http://www.isle.of.mull.com/)<span style="font-size: x-small;"> between April 26th to May 3rd 2008. The diary can be read [here](http://www.camb-hams.com/coming-events/camb-hams-mull-dx-pedition/the-mull-diary).</span>

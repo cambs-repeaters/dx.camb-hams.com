@@ -5,6 +5,7 @@ date: '2011-04-23T00:00:06+00:00'
 author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://dx.camb-hams.com/'
+nav_order: 1009
 ---
 
 *<span style="font-size: x-small;"><span style="font-size: x-small;">For previous DX’Peditions go </span></span>*[<span style="font-size: x-small;"><span style="font-size: x-small;">here…</span></span>](http://dx.camb-hams.com/dx-peditions)

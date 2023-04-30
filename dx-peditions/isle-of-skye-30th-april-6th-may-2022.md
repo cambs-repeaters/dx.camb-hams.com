@@ -5,8 +5,7 @@ date: '2022-04-30T07:33:34+00:00'
 author: M0VFC
 layout: page
 guid: 'https://dx.camb-hams.com/?page_id=3478'
-video_type:
-    - '#NONE#'
+nav_order: 1000
 ---
 
 Three years since the last activation in Scotland, delayed twice by COVID-19, GS3PYE/P returns to the Scottish islands!

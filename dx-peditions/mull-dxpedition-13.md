@@ -6,6 +6,7 @@ author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://dx.camb-hams.com/?page_id=2537'
 has_children: false
+nav_order: 1007
 ---
 
 <div style="font-size: 14px; color: #00529b; margin: 10px 0px; background-color: #bde5f8; border: 1px solid; padding: 15px 10px 15px 10px;">**Latest news on the Mull 2015 [DX’Pedition blog](http://dx.camb-hams.com/dx-peditions/mull-dxpedition-13/mull-dxpedition-15-diary/).**</div><div style="font-size: 14px; color: #00529b; margin: 10px 0px; background-color: #bde5f8; border: 1px solid; padding: 15px 10px 15px 10px;">**QSL information: [our QSL policy for 2015](http://dx.camb-hams.com/2015/05/11/some-changes-to-qsling/)**</div>Continuing the Camb-Hams traditional Scottish Island activations, beginning with [Mull in 2008](http://dx.camb-hams.com/dx-peditions/camb-hams-mull-dx-pedition/the-mull-diary/), [Harris in 2009](http://dx.camb-hams.com/dx-peditions/harris-dxpedition-09/the-harris-2009-diary/) plus [2010](http://dx.camb-hams.com/dx-peditions/harris-dxpedition-10/harris-2010-diary/), [Arran in 2011](http://dx.camb-hams.com/dx-peditions/arran-dxpedition-11/arran-2011-diary/) and [Mull in 2012](http://dx.camb-hams.com/dx-peditions/mull-dxpedition-12/) plus [2013](http://dx.camb-hams.com/dx-peditions/mull-dxpedition-13/) then [Lewis in 2014](http://dx.camb-hams.com/dx-peditions/lewis-dxpedition-2014-overview/blog/), we’ve decided to return to the Isle of Mull in the Scottish Inner Hebrides (**IOTA EU-008**) this time back to the great location of Grasspoint which we found was excellent for HF band operation

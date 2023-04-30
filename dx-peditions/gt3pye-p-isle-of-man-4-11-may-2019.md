@@ -5,8 +5,7 @@ date: '2019-05-02T12:41:32+00:00'
 author: M0VFC
 layout: page
 guid: 'http://dx.camb-hams.com/?page_id=3433'
-video_type:
-    - '#NONE#'
+nav_order: 1001
 ---
 
 After a decade of visiting the Scottish Islands, we’re heading to a different DXCC this year: the Isle of Man, GD.

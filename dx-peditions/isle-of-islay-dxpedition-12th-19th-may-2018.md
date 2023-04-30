@@ -5,8 +5,7 @@ date: '2018-05-12T17:28:45+00:00'
 author: M0VFC
 layout: page
 guid: 'http://dx.camb-hams.com/?page_id=3413'
-video_type:
-    - '#NONE#'
+nav_order: 1002
 ---
 
 For 2018, sees the return of the Camb-Hams to the Island of Islay which lies 120Km west of Glasgow and just southwest of Jura.

@@ -5,8 +5,7 @@ date: '2017-04-08T02:49:02+00:00'
 author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://dx.camb-hams.com/?page_id=3351'
-video_type:
-    - '#NONE#'
+nav_order: 1003
 ---
 
 For 2017, the Camb-Hams are going to the Island of Islay which lies 120Km west of Glasgow and just SW of Jura.

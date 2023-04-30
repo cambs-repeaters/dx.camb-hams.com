@@ -1,10 +1,11 @@
 ---
 id: 2000
-title: 'CUWS in FP &#8217;11'
+title: 'Miquellon 2011'
 date: '2011-09-20T17:50:33+00:00'
 author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://dx.camb-hams.com/?page_id=2000'
+nav_order: 1008.5
 ---
 
 Between September 23rd 2011 and October September 30th 2011 five hams from Cambridge, England will be active on Miquelon (prefix FP) part of [The Territorial Collectivity of Saint-Pierre and Miquelon.](http://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon)

@@ -5,6 +5,8 @@ date: '2010-03-02T23:26:20+00:00'
 author: 'Gavin, M1BXF'
 layout: page
 guid: 'http://dx.camb-hams.com/dx-peditions/harris-dxpedition-10/'
+nav_order: 1010
+has_children: true
 ---
 
 <span style="font-size: medium;">For the Harris 2010 diary go </span>[<span style="font-size: medium;">here…</span>](http://dx.camb-hams.com/dx-peditions/harris-dxpedition-10/harris-2010-diary/)

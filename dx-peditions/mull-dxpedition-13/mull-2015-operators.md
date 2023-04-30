@@ -1,12 +1,11 @@
 ---
 id: 3239
-title: 'Mull 2015 Operators'
+title: 'Mull 2015'
 date: '2015-04-30T17:11:11+00:00'
 author: 'Peter, 2E0SQL'
 layout: page
 guid: 'http://dx.camb-hams.com/?page_id=3239'
-video_type:
-    - '#NONE#'
+nav_order: 1005
 ---
 
 ## M1BXF
