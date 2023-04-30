@@ -8,4 +8,4 @@ guid: 'http://dx.camb-hams.com/'
 nav_order: 200
 ---
 <h1>Online Log</h1>
-<p>Coming soon - once we're on air!</p>
+<iframe frameborder="0" height="3500" loading="lazy" src="https://dxlogs.camb-hams.com/" width="98%"></iframe>
