@@ -8,7 +8,7 @@ nav_order: 999
 
 # Islay 2023
 
-After last year's road-only journey to the Isle of Islay, 2023 brings a return to CalMac's ferries and their Scottish Breakfast.
+After last year's road-only journey to the Isle of Skye, 2023 brings a return to CalMac's ferries and their Scottish Breakfast.
 
 ## Dates
 
