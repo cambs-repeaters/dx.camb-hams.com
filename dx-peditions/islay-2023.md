@@ -10,6 +10,9 @@ nav_order: 999
 
 After last year's road-only journey to the Isle of Skye, 2023 brings a return to CalMac's ferries and their Scottish Breakfast.
 
+{: .highlight }
+Check [online log]({% link online-logbooks.md %}). All QSOs will be also uploaded to Logbook of the World throughout the trip.
+
 ## Dates
 
 We set out from Cambridge on Saturday 29th April, stopping over in Dumbarton near Glasgow overnight, travelling on to Islay on Sunday morning.
