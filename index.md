@@ -10,9 +10,13 @@ nav_order: 100
 
 Welcome to the Camb-Hams DXpedition site. Here you’ll read all about our adventures, trips and activities operating Amateur Radio from locations such as Harris, Arran, Mull and other Scottish Isles. We’ll also post pictures and videos, and during our trips we will have our logbook updating in real-time.
 
+## Mull 2024
+
+After nine years away from the island, we're back on [Mull]({% link dx-peditions/mull-2024.md %}) in 2024, from Saturday 27th April to Friday 3rd May.
+
 ## Islay 2023
 
-We're back on [Islay]({% link dx-peditions/islay-2023.md %}) for 2023. We'll be on air Sunday 30th April to Saturday 6th May, on HF and the narrowband QO-100 transponder.
+We returned to [Islay]({% link dx-peditions/islay-2023.md %}) for 2023, on air between Sunday 30th April to Saturday 6th May 2023, on HF and the narrowband QO-100 transponder.
 
 ## Skye 2022
 
